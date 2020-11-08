@@ -1,0 +1,5 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: Gotham Rounded, Arial, sans-serif;
+    font-weight: normal;
+}
